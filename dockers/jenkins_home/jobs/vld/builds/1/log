@@ -1,0 +1,11 @@
+Started by user [8mha:////4DRvJt6B6ay1RTVNAeROjfON1UF0ZLeynBFYjUCqQVb+AAAAlh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyOEgYu/dLi1CL9spzEFAAD0In2vwAAAA==[0mVladimir
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/vld
+[vld] $ /bin/sh -xe /tmp/jenkins9860595451527209199.sh
++ git clone https://github.com/Vladshambaryan/docker_test.git
+Cloning into 'docker_test'...
++ pwd
+/var/jenkins_home/workspace/vld
++ ls
+docker_test
+Finished: SUCCESS
